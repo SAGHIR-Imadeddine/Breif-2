@@ -1,2 +1,2 @@
 # Breif-2
-Deuxième Brief à YouCode
+Créeation des maquettes de design et à les intégrer en HTML et CSS pour une chaîne de restaurants.
