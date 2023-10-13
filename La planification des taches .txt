@@ -1,0 +1,34 @@
+La planification des taches: 
+
+------J1------
+- conception et entrainement au travail sur les maquettes en utilisant Figma.(5h)
+
+- ralisation de la maquette du Home page.(4h)
+
+- revision de la page Home.(1h)
+
+------J2------
+- modifier la page Home.(2h)
+
+- realisation d'une maquette pour la page Menu, la page About ,et la page Contact.(8h)
+
+- livraison des maquettes.
+
+- essayer de convertir la maquette de la page Home en un site web en utilisant HTML et CSS.(2h)
+
+
+------J3------
+- convertir la maquette de la page Home en un site web en utilisant HTML et CSS. (6h)
+
+- convertir la maquette de la page about en un site web en utilisant HTML et CSS.(5h)
+
+
+------J4------
+- convertir la maquette de la page menu en un site web en utilisant HTML et CSS.(6h)
+
+- convertir la maquette de la page Contact en un site web en utilisant HTML et CSS.(6h)
+
+------J5------
+- revision des pages afin d'ameliorer leurs fonctionalitees.(5h)
+
+- livrer le rendu complet.
